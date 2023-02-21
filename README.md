@@ -6,7 +6,7 @@
 ---
 
 <details>
-<summary><b>Converter Alfred</b> Convert FIAT and Crypto</summary>
+<summary><b>🌟 Converter Alfred</b> Convert FIAT and Crypto</summary>
 
 - 💚 `cc 2 usdt try` to convert `2 USDT` to `TRY` value
 - 🎉 Complex queries like `2 TRY PHP` is working now!
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Flaticon Alfred</b> Download image with Pack and Downloads count and copy path of it from flat icon to clipboard</summary>
+<summary><b>🌟 Flaticon Alfred</b> Download image with Pack and Downloads count and copy path of it from flat icon to clipboard</summary>
 
 - Type `+` to end of the query to see more results.
 - Search `query` on flaticon (for more specific settings, change shape or order_by in `main.py`)
