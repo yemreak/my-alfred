@@ -79,6 +79,8 @@
 
 </details>
 
+## The ones that I have created but not using
+
 <details>
 <summary><b>Strings Alfred</b> Manipulate any string or url</summary>
 
@@ -99,6 +101,33 @@
 - Alfred workflow version of [images-upload-cli](https://github.com/DeadNews/images-upload-cli)
 
 ![example](https://i.imgur.com/2cEqQUF.png)
+
+</details>
+
+<details>
+<summary><b>PyPIAlfred</b> Search pypi for package, enter to open in pypi</summary>
+
+- Search pypi for package, enter to open in pypi
+- Hold ⌘ and enter to copy `pip install -U package` command to clipboard
+- Hold ⇧ and enter to download new release if update item appear
+- Automatically checks update via `github` every 1 week
+- Limitation `only shows first page`
+
+![example](https://i.imgur.com/WCcsVCt.png)
+    
+</details>
+
+<details>
+<summary><b>Github Alfred</b> Search github for query</summary>
+
+- Search github for query
+- `GITHUB_TOKEN` environmental variables needed for personal repo search
+- If not set, search globally (max 20 result)
+- Auto update via github (checks once a week)
+
+> Via caches, don't make more requests...
+
+![example.png](https://i.imgur.com/jOG4UPC.png)
 
 </details>
 
