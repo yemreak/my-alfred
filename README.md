@@ -2,6 +2,7 @@
 
 - All workflows can be installed from release page
 - Open toggle menus for see details
+- Check out [**RELEASE**](https://github.com/yemreak/my-alfred/releases/latest) tab to see my workflows
 
 ---
 
