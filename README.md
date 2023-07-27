@@ -7,6 +7,15 @@
 ---
 
 <details>
+<summary><b>🔠 LibreTranslate</b> Open source translator</summary>
+
+- ⚙️ `tr` to translate Turkish, `en` to translate `English`
+
+![libretranslate.png](.github/libretranslate.png)
+
+</details>
+
+<details>
 <summary><b>🌟 Converter Alfred</b> Convert FIAT and Crypto</summary>
 
 - 💚 `cc 2 usdt try` to convert `2 USDT` to `TRY` value
